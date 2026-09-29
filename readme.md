@@ -22,3 +22,9 @@ Je veux que vous refassiez le schéma ci-dessous, étape par étape :
 
 L'objectif est réellement de comprendre chaque élément du schéma, de manière progressive.
 Le travail est à faire sur un doc à rendre en PDF, et les schémas doivent être lisibles.
+
+## TP 3
+
+Pour chaque étape du schéma, et pour simplifier la compréhension, je veux que vous intégriez du code qui symbolise chaque couche, chaque partie de l'achitecture hexagonale.
+
+Servez vous de vos étapes sur chaque schéma pour faire progresser votre code comme vous faites progresser vos schéma.
